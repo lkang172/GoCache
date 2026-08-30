@@ -1,0 +1,20 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+main.exe
+
+# Test / coverage
+*.test
+*.out
+coverage.txt
+
+# Local protoc toolchain
+protoc/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
